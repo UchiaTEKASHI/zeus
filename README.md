@@ -1,1 +1,2 @@
-# zeus
+hello
+trying out git
