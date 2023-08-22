@@ -8,8 +8,3 @@ trying out git
    +its funny tho, let me say i got motivated (smiles :)
 
 $ git remote add origin https://github.com/UchiaTekashi/REPOSITORY.git
-# Set a new remote
-
-$ git remote -v
-# Verify new remote
-> origin  https://github.com/UchiaTekashi/REPOSITORY.git (fetch)
