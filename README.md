@@ -6,3 +6,11 @@ trying out git
   +but i promise to start using git
 
    +its funny tho, let me say i got motivated (smiles :)
+
+$ git remote add origin https://github.com/OWNER/REPOSITORY.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/UchiaTekashi/REPOSITORY.git (fetch)
+> origin  https://github.com/UchiaTekashi/REPOSITORY.git (push)
