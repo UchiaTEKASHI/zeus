@@ -7,4 +7,6 @@ trying out git
 
    + its funny tho, let me say i got motivated (smiles :)
 + basically today is thursday i made a reasearch, guess what i found a website called scrimba 
-+ scrimba teach fullstack course on programming wow that's amazing 
++ scrimba teach fullstack course on programming wow that's amazing
++ creating concentation is easy but not eveyone take it easy
++ i need a total javascript knowledge
